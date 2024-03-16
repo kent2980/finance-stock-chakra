@@ -1,46 +1,46 @@
-# Getting Started with Create React App
+# Create React App で始める
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+このプロジェクトは [Create React App](https://github.com/facebook/create-react-app) を使用して立ち上げられました。
 
-## Available Scripts
+## 利用可能なスクリプト
 
-In the project directory, you can run:
+プロジェクトディレクトリ内で、以下のコマンドを実行できます:
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+開発モードでアプリを起動します。\
+ブラウザで [http://localhost:3000](http://localhost:3000) を開いて表示を確認できます。
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+編集を行うとページがリロードされます。\
+また、コンソールにlintのエラーが表示されます。
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+インタラクティブなウォッチモードでテストランナーを起動します。\
+詳細は [running tests](https://facebook.github.io/create-react-app/docs/running-tests) のセクションを参照してください。
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+`build` フォルダに対してプロダクション用のアプリをビルドします。\
+Reactはプロダクションモードで正しくバンドルされ、最適なパフォーマンスのためにビルドが最適化されます。
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+ビルドはミニファイされ、ファイル名にはハッシュが含まれます。\
+あなたのアプリはデプロイ準備が整いました！
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+デプロイメントについては [deployment](https://facebook.github.io/create-react-app/docs/deployment) のセクションをご覧ください。
 
 ### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+**注意: これは一方向の操作です。一度 `eject` を実行すると、元に戻すことはできません！**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+ビルドツールや設定オプションに満足できない場合、いつでも `eject` コマンドを実行できます。このコマンドはプロジェクトから唯一のビルド依存関係を削除します。
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+代わりに、すべての構成ファイルと間接的な依存関係（webpack、Babel、ESLintなど）をプロジェクト内に直接コピーし、完全な制御ができるようになります。`eject`以外のコマンドは引き続き動作しますが、スクリプトはコピーされたものを指し示すので、調整が可能です。この時点で、あなたは自身で管理することになります。
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+必ずしも `eject` を使用する必要はありません。キュレートされた機能セットは小規模および中規模のデプロイメントに適しており、この機能を使う義務はありません。しかしながら、必要になった時にカスタマイズできないというツールの限界も理解しています。
 
-## Learn More
+## もっと学ぶ
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+[Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started) でさらに情報を得ることができます。
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Reactについて学ぶなら、[React documentation](https://reactjs.org/) をチェックしてください。
